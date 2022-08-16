@@ -1,0 +1,23 @@
+.header {
+  font-family: serif;
+}
+body {
+  background-color: aquamarine;
+}
+.App {
+  display: block;
+  border: 5px outset;
+}
+.App h1 {
+  text-align: center;
+}
+.card-body {
+  text-align: center;
+}
+.card {
+  align-self: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: floralwhite;
+  border: 4px outset;
+}
